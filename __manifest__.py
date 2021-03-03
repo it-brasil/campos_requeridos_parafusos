@@ -8,5 +8,5 @@
     'version': '0.1',
     'website': 'http://itbrasil.com.br/',
 
-    'depends': ['base','sale_subscription'], #gateway selector, brazil base, subscription
+    'depends': ['base','sale'], #gateway selector, brazil base, subscription
 }
